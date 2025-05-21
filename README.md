@@ -45,4 +45,7 @@ The trained model was used to make predictions on the test dataset.
 Predicted survival results and actual values were printed to compare model performance.  
 Additionally, a sample prediction was performed with `[2, 1]` as input, representing a second-class male passenger.
 
----
+**Name:** [Snehal Bedkute]  
+**Internship:** CodSoft - Data Science Internship 
+
+#CodSoft
